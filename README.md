@@ -24,7 +24,7 @@ Classes: Cats, Dogs
 
  Corresponding notebook for Data Loading:  https://github.com/shaanusyed/CNN-MODEL/blob/main/Cats%20and%20Dogs%20DATA%20Preprocessing.ipynb
  
- Corresponding notebook for Data Loading:  https://github.com/shaanusyed/CNN-MODEL/blob/main/CATS%20and%20DOGS%20CNN%20Model%20using%20Keras.ipynb
+ Corresponding notebook for CNN(Convolutional Neural Networks)Model building:  https://github.com/shaanusyed/CNN-MODEL/blob/main/CATS%20and%20DOGS%20CNN%20Model%20using%20Keras.ipynb
 
 ### STEP 1 - Initialization: importing necessary libraries and modules.
 
