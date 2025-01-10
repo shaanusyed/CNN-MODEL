@@ -22,7 +22,7 @@ Classes: Cats, Dogs
 
 ## Classification: Keras Tensorflow 
 
- Corresponding notebook for Data Loading:    https://github.com/shaanusyed/CNN-MODEL/blob/d9022ac024a5d0503b9f961293c643a00886564d/Cats%20and%20Dogs%20DATA%20Preprocessing.ipynb
+ Corresponding notebook for Data Loading:  Cats and Dogs DATA Preprocessing.ipynb
  
  Corresponding notebook for Data Loading: CATS and DOGS CNN Model using Keras.ipynb
 
