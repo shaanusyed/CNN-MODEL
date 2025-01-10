@@ -50,7 +50,27 @@ Training and validation accuracy across epochs (Tensorflow):
 
 ![Screenshot 2025-01-10 151025](https://github.com/user-attachments/assets/5c9c9b70-bb96-4649-a5b7-28754b93645d)
 
+<img width="422" alt="image" src="https://github.com/user-attachments/assets/8c646c8c-4c7f-47a9-b829-f94b4d4b5ed4" />
 
+
+### Step 6: Before applying regularization the accuracy
+Accuracy : 96%
+Validation accuracy : 85%
+
+## Step 7: Tested with sample images data
+Not getting correct prediction
+So went for regularization in the next step
+
+### Step 8: Applying BacthNormalization and Dropout techniques to predict better
+Again built the model with BatchNormalization and Dropout technique
+plotted the accuracy and loss graphs
+
+
+
+
+#### got accuracy after regularization:
+Accuracy : 96%
+Validation accuracy : 85%
 
 
 
