@@ -61,8 +61,14 @@ Training and validation accuracy across 5 epochs, plotted the accuracy and loss 
 
 
 ### Step 6: Before applying regularization the accuracy
-Accuracy : 96%
-Validation accuracy : 85%
+Accuracy : 84%
+Validation accuracy : 82%
+(for 5 epochs of validation data below are the accuracy percentages) 
+Epoch 1: Validation Accuracy = 70.91%
+Epoch 2: Validation Accuracy = 79.09%
+Epoch 3: Validation Accuracy = 77.70%
+Epoch 4: Validation Accuracy = 82.26%
+Epoch 5: Validation Accuracy = 82.87%
 
 ## Step 7: Tested with sample images data
 . Getting sometimes wrong predictions
@@ -82,17 +88,25 @@ Training and validation accuracy across 5 epochs, plotted the accuracy and loss 
 
 
 ## Fianl accuracy after regularization:
-Got validation accuracy as 77.96%
+Train Accuracy = 89%
+Got validation accuracy as 77%
 
 (for 5 epochs of validation data below are the accuracy percentages) 
-Epoch 1: Validation Accuracy = 50.96%
-Epoch 2: Validation Accuracy = 74.09%
-Epoch 3: Validation Accuracy = 64.48%
-Epoch 4: Validation Accuracy = 76.48%
-Epoch 5: Validation Accuracy = 77.96%
+Epoch 1: Validation Accuracy = 60.30%
+Epoch 2: Validation Accuracy = 73.65%
+Epoch 3: Validation Accuracy = 79.83%
+Epoch 4: Validation Accuracy = 78.57%
+Epoch 5: Validation Accuracy = 71.26%
 
 ### Step 10: Tested the model on the sample data images
 
-## Conclusion : Model is able giving correct predictions
+## Conclusion : 
+Model is able to giving correct predictions except some images before and after regularization.
+We can stick to basic model as difference between train and validation accuracy is smaller than regularization technique applied accuracy difference.
+
 
 <img width="266" alt="image" src="https://github.com/user-attachments/assets/0f049bc0-02f0-41cb-98c3-396c7842aeaf" />
+
+<img width="323" alt="image" src="https://github.com/user-attachments/assets/1e3e7825-54b3-48bf-8d7a-06c62eafcfc9" />
+
+
