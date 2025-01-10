@@ -1,2 +1,2 @@
 # CNN-MODEL
-Convolutional Neural Network projects using Keras
+Convolutional Neural Network project using Keras
