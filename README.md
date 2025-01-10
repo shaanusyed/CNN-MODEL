@@ -1,2 +1,2 @@
 
-### Convolutional Neural Networks - Image Classification
+# Convolutional Neural Networks - Image Classification
